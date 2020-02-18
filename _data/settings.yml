@@ -27,7 +27,7 @@ client:
   url: http://cottmanexecutivesearch.com
 
 CTAs:
-  first_CTA_text: Contact Us
+  first_CTA_text: Consultation
   first_CTA_URL: http://cottmanexecutivesearch.com/index.php/contact
   second_CTA_text: Learn More
   second_CTA_URL: http://cottmanexecutivesearch.com/
