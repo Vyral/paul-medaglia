@@ -35,7 +35,7 @@ CTAs:
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "WE WOULD LOVE TO HEAR FROM YOU!"
-    CTA_text: "We can help you."
+    CTA_text: "We can help you today."
     CTA_link_text: "Contact Us"
     CTA_url: http://cottmanexecutivesearch.com/index.php/contact
 
