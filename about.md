@@ -3,7 +3,65 @@ layout: default
 title: About
 permalink: /about/
 ---
+<h1>Our Expertise</h1>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse fermentum tellus eget nisl rutrum, ac lobortis sapien bibendum. Vestibulum et purus magna. Cras imperdiet eros massa, eu volutpat ante tempus in. Vivamus congue facilisis venenatis. Donec eros augue, dignissim in ante sit amet, lobortis vestibulum diam. Donec dictum lorem facilisis tincidunt cursus. Phasellus vel eros nibh. Nullam blandit nunc tincidunt est gravida faucibus. Donec ut semper diam, non lacinia libero. Aliquam in massa quam. Nullam vitae quam arcu. Proin tincidunt consectetur nunc vel sagittis. Nulla non feugiat nibh, sed laoreet justo.
+<h3>Cottman Executive Search's professional recruiting team brings years of industry related experience.</h3>
 
-Vivamus porttitor dolor ut augue condimentum ultricies. Etiam vel orci pretium, tempus nunc eget, suscipit tellus. Phasellus nibh nunc, suscipit vitae sem in, tincidunt vulputate enim. Vestibulum consectetur nulla at ligula malesuada condimentum. Vestibulum sed dui vulputate, aliquet ipsum posuere, consequat est. Sed at nisl tempor, dictum tellus ac, placerat velit. Donec in malesuada nisi. Nam tincidunt nunc mollis dolor ultricies, ut ultricies leo porttitor.
+<div class="col-sm-6">
+
+<p><strong>Functional Specialties:</strong></p>
+
+<p><strong>Legal, Compliance and Regulatory:</strong>
+<ul class="indent">
+<li>General Counsel/Chief Legal Officer</li>
+<li>Chief Compliance Officer, Bank/Securities Compliance</li>
+<li>Consumer/Institutional Compliance</li>
+<li>Regulatory Affairs</li>
+</ul></p>
+
+<p><strong>Risk Management:</strong>
+<ul class="indent">
+<li>Chief Risk Officer</li>
+<li>Chief Credit Officer</li>
+<li>Liquidity, Operational, Market, Third Party, Payment Risk</li>
+<li>Fraud/Financial Crimes</li>
+</ul></p>
+
+<p><strong>Technology:</strong>
+<ul class="indent">
+<li>CIO/CTO</li>
+<li>Head of Engineering/Application Development</li>
+<li>Head of Data Analytics</li>
+</ul></p>
+
+</div>
+
+
+<div class="col-sm-6">
+
+<p><strong>Advisory Services:</strong>
+<ul class="indent">
+<li>Partners/Managing Directors/Business Developers</li>
+</ul></p>
+
+<p><strong>Wealth Management:</strong>
+<ul class="indent">
+<li>Private Bankers/Wealth Relationship Managers</li>
+<li>Regional Directors/Team Leaders</li>
+</ul></p>
+
+<p><strong>Subject Matter Expertise:</strong>
+<ul class="indent">
+<li>AML/BSA/Financial Crimes</li>
+<li>Data Analytics/Model Validation</li>
+<li>Cybersecurity</li>
+<li>Blockchain</li>
+<li>Artificial Intelligence</li>
+<li>Digital</li>
+<li>Fintech</li>
+<li>Cloud</li>
+<li>Cyber</li>
+<li>Portfolio Managers</li>
+</ul></p>
+
+</div>
