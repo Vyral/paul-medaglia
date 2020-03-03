@@ -19,11 +19,27 @@
 				<div class="col-lg-10 col-lg-offset-1">
 					{{ content }}
 				</div>
+			</div>
+			<div class="row">
 
-			<!-- Sidebar Content // Hidden on mobile -->
+			<div class="col-sm-4">
+				{% include socials.html %}
+				{% include search-box.html %}
 			</div>
 
+			<div class="col-sm-4">
+				{% include cta-sidebar.html %}
 			</div>
+
+			<div class="col-sm-4">
+				{% include blog-archive-category.html %}
+			</div>
+
+		</div>
+
+
+			</div>
+			{% include about.html %}
 			{% include testimonials.html %}
 			{% include top-button.html %}
 			{% include bottom-navigation.html %}

@@ -1,3 +1,4 @@
+<div class="col-sm-6">
 <address class="contact">
   <strong>{{site.data.settings.client.name}}</strong>
   {% if site.data.settings.client.brand and site.data.settings.client.brokerage == null %}
@@ -29,6 +30,17 @@
   <br>
   <a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a>
 </address>
+</div>
+
+<div class="col-sm-6 contact">
+  <strong>Cindy Cottman</strong><br>
+  President<br>
+  <a href="mailto:ccottman@ccexs.com">ccottman@ccexs.com</a><br>
+  <a href="tel:1-203-629-8426">203-629-8426</a>
+</div>
+
+
+
 <form class="contact-form" method="post" action="https://formspree.io/{{site.data.settings.client.email}}">
   <input type="text" name="name" placeholder="Name" required>
   <input type="email" name="_replyto" placeholder="Email" required>

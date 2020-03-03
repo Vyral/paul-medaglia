@@ -2503,8 +2503,7 @@ form select {
       border: 3px solid #6699cc; }
 
 .contact-form {
-  width: 75%;
-  margin-left: 13%; }
+  width: 85%; }
   .contact-form input, .contact-form textarea {
     width: 100%;
     border: 1px solid gray; }
@@ -2524,7 +2523,6 @@ form select {
 .contact {
   font-size: 24px;
   margin-bottom: 20px;
-  margin-left: 13%;
   margin-top: 20px; }
 
 .cta {
@@ -2575,6 +2573,9 @@ form select {
 
 .newsletter {
   background: #797979; }
+
+.indent {
+  margin-left: 3rem; }
 
 #side-logo {
   width: 90%;

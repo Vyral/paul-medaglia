@@ -1,18 +1,20 @@
 ---
-layout: default
+layout: page
 title: About
 permalink: /about/
 ---
+<div class="center col-lg-10 col-lg-offset-1">
 <h1>Our Expertise</h1>
 
-<h3>Cottman Executive Search's professional recruiting team brings years of industry related experience.</h3>
-
-<div class="col-sm-6">
+<h3>Cottman Executive Search's professional recruiting team brings years of industry related experience.</h3><br>
 
 <p>Cottman Executive Search is a retained, executive search firm specializing in senior management recruitment for clients in financial services, consulting, gov't regulatory agencies, and private equity. Specializing in Legal, Compliance, Risk, Regulatory, Operations and Technology positions, with offices in Greenwich, New York, and London. Founded by Cindy Cottman in 2008, after 20 years at Korn Ferry Int'l where she ran Financial Services in Europe before coming to the US to launch the Compliance, Risk and Regulatory Group in KFI NY office.</p>
 
 <p>Paul Medaglia joined the firm as a Partner in 2017, after a 10-year career in executive recruiting with another leading global search firm.</p>
 
+</div>
+
+<div class="col-sm-5 col-sm-offset-1">
 <p><strong>Types of Positions:</strong>
 <ul class="indent">
 <li>Chief Compliance Officer</li>
@@ -52,7 +54,7 @@ permalink: /about/
 </div>
 
 
-<div class="col-sm-6">
+<div class="col-sm-5 col-sm-offset-1">
 
 <p><strong>Advisory Services:</strong>
 <ul class="indent">

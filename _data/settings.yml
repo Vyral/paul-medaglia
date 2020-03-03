@@ -21,14 +21,16 @@ client:
 
         Paul Medaglia joined the firm as a Partner in 2017, after a 10-year career in executive recruiting with another leading global search firm.
 
-        Types of Positions:
-        Chief Compliance Officer
-        Chief Risk Officer
-        Head of Financial Crimes Risk Management
-        Head of AML
-        General Counsel
-        Chief Operating Officer/Head of Operations
-        Chief Information Officer/Chief Information Security Officer
+        <strong>Types of Positions:</strong><br>
+        <ul class="indent">
+        <li>Chief Compliance Officer</li>
+        <li>Chief Risk Officer</li>
+        <li>Head of Financial Crimes Risk Management</li>
+        <li>Head of AML</li>
+        <li>General Counsel</li>
+        <li>Chief Operating Officer/Head of Operations</li>
+        <li>Chief Information Officer/Chief Information Security Officer</li>
+        </ul>
   brand: Cottman Executive Search
   brokerage:
   market:
