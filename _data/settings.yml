@@ -3,6 +3,8 @@ title: Financial Video Blog with Paul Medaglia
 description: Our mission at Cottman Executive Search is to be your best resource for -- MARKET -- finance advice. Our team of professionals can answer any questions you might have. You can get all the information and the latest updates to learn how Cottman Executive Search can connect you with the right people.
 show_custom_links: true
 custom_links:
+  - title: Videos
+    url: /videos/
   - title: About
     url: /about/
   - title: Team
