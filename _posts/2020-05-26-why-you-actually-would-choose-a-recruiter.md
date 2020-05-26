@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/km2QzQiRh_A'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>This is the place of recruiters in today’s world.</em></p>
+
 We typically hear a lot of questions about when people should work with a recruiter. Here are a few different examples.
 
 One would be if you want to replace someone and do it confidentially. Another would be if you’ve exhausted all other methods in trying to fill a position and it’s just not yielding the results you’re looking for. Finally, if you have experience recruiting and need a specialist to assist you in placing the position, a recruiter can help there as well.
