@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why You Actually Would Choose a Recruiter
-date: 2020-05-26 18:34:02
+date: 2020-05-26 18:34:00
 tags:
   - Executive Recruitment
 excerpt: This is the place of recruiters in today’s world.
@@ -19,13 +19,13 @@ youtube_code: 'https://youtu.be/km2QzQiRh_A'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>This is the place of recruiters in today’s world.</em></p>
+*This is the place of recruiters in today’s world.*
 
-We typically hear a lot of questions about when people should work with a recruiter. Here are a few different examples.
+We typically hear a lot of questions about when people should work with a recruiter. There are a few different examples.
 
 One would be if you want to replace someone and do it confidentially. Another would be if you’ve exhausted all other methods in trying to fill a position and it’s just not yielding the results you’re looking for. Finally, if you have experience recruiting and need a specialist to assist you in placing the position, a recruiter can help there as well.
 
-A specialist recruiter is going to have a good track record, a vast network, and they’re also going to call passive candidates. Based on that, they will pre-screen and pre-qualify all the individuals that they talk to, as well as interview them, do a back-channel reference, and come up with a short list of three to five people.&nbsp;
+A specialist recruiter is going to have a good track record, a vast network, and they’re also going to call passive candidates. Based on that, **they will pre-screen and pre-qualify all the individuals that they talk to,** as well as interview them, do a back-channel reference, and come up with a short list of three to five people.&nbsp;
 
 {% include pullquote.html %}
 
