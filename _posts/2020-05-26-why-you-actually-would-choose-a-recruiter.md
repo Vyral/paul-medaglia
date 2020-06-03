@@ -13,13 +13,13 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/5-27---paul-medaglia---yt.jpg
+youtube_alternate_image: /uploads/paul-medaglia-why-choose-a-recruiter-yt.jpg
 youtube_code: 'https://youtu.be/km2QzQiRh_A'
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>This is the place of recruiters in today’s world.</em></p>
+*This is the place of recruiters in today’s world.*
 
 We typically hear a lot of questions about when people should work with a recruiter. There are a few different examples.
 
