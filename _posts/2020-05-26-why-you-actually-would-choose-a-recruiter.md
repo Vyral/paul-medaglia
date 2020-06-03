@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/km2QzQiRh_A'
 
 {% include youtube.html %}
 
-*This is the place of recruiters in today’s world.*
+<p style="text-align: center;"><em>This is the place of recruiters in today’s world.</em></p>
 
 We typically hear a lot of questions about when people should work with a recruiter. There are a few different examples.
 
