@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/TeGMheG_tEc'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Make sure to sell opportunities when speaking with a candidate.</em></p>
+
 Clients are typically good at selling an opportunity for a particular role. However, sometimes they fail to realize **it goes beyond just selling one opportunity to a particular candidate.** When initially contacting a candidate about a role and throughout the process, you’re selling the opportunity.&nbsp;
 
 {% include pullquote.html %}
