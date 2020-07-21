@@ -25,6 +25,6 @@ Clients are typically good at selling an opportunity for a particular role. Howe
 
 At the end of the process, whether they get the position or not, you continue to sell the opportunity. Why? You’re hoping to go back to that candidate at another time for another role. You also don’t know if that candidate is a client of the firm, if they have an account or mortgage through you if you work for a bank, or if they patronize your retail operation. So be sure to leave people on a positive note.&nbsp;
 
-**From time to time clients won’t call candidates back or let them know they haven’t been chosen for a role, and it leaves a bad taste in the candidate’s mouth.** They may send out an auto-generated email saying the person is no longer under consideration, and all that does is prompt a phone call asking why they weren’t chosen for the role.&nbsp;
+**From time to time, clients won’t call candidates back or let them know they haven’t been chosen for a role, and it leaves a bad taste in the candidate’s mouth.** They may send out an auto-generated email saying the person is no longer under consideration, and all that does is prompt a phone call asking why they weren’t chosen for the role.&nbsp;
 
 If you have further questions about selling opportunities or anything else, contact me via email. I would be happy to speak with you.
