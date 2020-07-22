@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/paul-medaglia-the-importance-of-selling-in-opportunity-yt.jpg
-youtube_code: 'https://youtu.be/TeGMheG_tEc'
+youtube_code: 'https://youtu.be/jPNE6LMrVTY'
 ---
 
 {% include youtube.html %}
