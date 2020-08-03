@@ -18,6 +18,8 @@ youtube_code: 'https://youtu.be/bK2fOUB1QKs'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s what we look for when finding people for technology roles.</em></p>
+
 Clients I work with typically want to build a team that has a diversity of thought, but striking that balance is always somewhat difficult. It’s going to continue to be challenging because we now have the flexibility of the new norm to work remotely. **When we’re looking for regulatory technology individuals, we look for those who have both data analytic and program management skills.** They’re either going to be more operationally focused or technology savvy.&nbsp;
 
 Given the fact that we’re able to work remotely now, this provides more options for potential hires, whereas some candidates were more restricted geographically before the pandemic. These individuals will continue to be in high demand due to the CARES Act.
